@@ -1,11 +1,36 @@
-h1
+.hed1
 {
     color: darkblue;
     text-align: center;
+    font-size: x-large;
+}
+.hed2{
+    color: brown;
+    font-size: x-large;
+    text-align: center;
+    font-weight: 200;
 }
 
-span
+.spaaan
 {
     color: green;
- 
+
+font-size: xx-large;
+}
+.span2
+{
+    color: aqua;
+}
+.divv{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: auto;
+}
+.divv2{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin-top: auto;
 }
